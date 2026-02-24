@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 
 In this project, I configured an NFS (Network File System) server on RHEL and connected a client system to access the shared directory. The goal was to create a reliable and secure file-sharing setup inside a Linux environment.
-
 This documentation reflects the exact process I followed, including installation, configuration, testing, and best practices.
 
 ---
